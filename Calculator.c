@@ -148,5 +148,3 @@ void printMenu()
         printf("Option 4 - Division Calculator\n");
         printf("Option 5 - Exit Program\n");
     }
-
-//test
